@@ -1,5 +1,6 @@
 import datetime
 import calendar
+import textwrap
 
 from pptx import Presentation
 from pptx.util import Inches, Pt
@@ -25,7 +26,7 @@ def _create_full(data):
     title_slide = prs.slides.add_slide(title_slide_layout)
 
     # # Date # #
-    date_text_box = title_slide.shapes.add_textbox(left=Inches(-2.5), top=Inches(0), width=Inches(10), height=Inches(1))
+    date_text_box = title_slide.shapes.add_textbox(left=Inches(0.2), top=Inches(0), width=Inches(10), height=Inches(1))
     date_text_frame = date_text_box.text_frame
 
     date_p = date_text_frame.add_paragraph()
@@ -35,46 +36,56 @@ def _create_full(data):
     date_p.font.name = 'Roberto Light'
     date_p.font.size = Pt(36)
 
+    # Content
+    date_content_text_box = title_slide.shapes.add_textbox(left=Inches(1), top=Inches(1), width=Inches(0.5), height=Inches(5))
+    date_content_frame = date_text_box.text_frame
+
+    date_p = date_content_frame.add_paragraph()
+    date_p.word_wrap = True
+    date_p.text = "Day: " + data["board"]["day"]
+    date_p.font.name = 'Roberto Light'
+    date_p.font.size = Pt(20)
+
     # # Announcements # #
 
     # Heading
-    announcements_heading_text_box = title_slide.shapes.add_textbox(left=Inches(-3.5), top=Inches(0.75),
-                                                                    width=Inches(10), height=Inches(1))
+    announcements_heading_text_box = title_slide.shapes.add_textbox(left=Inches(0.5), top=Inches(0.75), width=Inches(10), height=Inches(1))
     announcements_heading_frame = announcements_heading_text_box.text_frame
 
     announcements_heading_p = announcements_heading_frame.add_paragraph()
-    announcements_heading_p.text = "Announcements"
+    announcements_heading_p.text = "\n\n" + "Announcements:"
     announcements_heading_p.font.color.rgb = RGBColor(0, 100, 0)
     announcements_heading_p.font.name = 'Roberto Light'
     announcements_heading_p.font.size = Pt(24)
 
     # Content
-    announcements_content_text_box = title_slide.shapes.add_textbox(left=Inches(-3), top=Inches(1), width=Inches(2),
-                                                                    height=Inches(1))  # TODO fix spacing
+    announcements_content_text_box = title_slide.shapes.add_textbox(left=Inches(1.1), top=Inches(1), width=Inches(0.5), height=Inches(5))
     announcements_content_frame = announcements_content_text_box.text_frame
 
     announcements_content_p = announcements_content_frame.add_paragraph()
-    announcements_content_p.text = data['board']['announcements']
+    announcements_content_p.word_wrap = True
+
+    s = data['board']['announcements']
+    a_text = '\n'.join(textwrap.wrap(s, 38))
+    announcements_content_p.text = "\n\n\n" + a_text
+
     announcements_content_p.font.name = 'Roberto Light'
     announcements_content_p.font.size = Pt(20)
-    announcements_content_p.word_wrap = True
 
     # # Quote # #
 
     # Heading
-    quote_heading_text_box = title_slide.shapes.add_textbox(left=Inches(-2), top=Inches(5.5),
-                                                            width=Inches(5), height=Inches(1))
+    quote_heading_text_box = title_slide.shapes.add_textbox(left=Inches(0.5), top=Inches(5.5), width=Inches(5), height=Inches(1))
     quote_heading_frame = quote_heading_text_box.text_frame
 
     quote_heading_frame_p = quote_heading_frame.add_paragraph()
-    quote_heading_frame_p.text = "Quote"
+    quote_heading_frame_p.text = "Quote:"
     quote_heading_frame_p.font.color.rgb = RGBColor(0, 100, 0)
     quote_heading_frame_p.font.name = 'Roberto Light'
     quote_heading_frame_p.font.size = Pt(24)
 
     # Content
-    quote_content_text_box = title_slide.shapes.add_textbox(left=Inches(-2.45), top=Inches(6),
-                                                            width=Inches(7), height=Inches(1))
+    quote_content_text_box = title_slide.shapes.add_textbox(left=Inches(1.45), top=Inches(6), width=Inches(7), height=Inches(1))
     quote_content_frame = quote_content_text_box.text_frame
 
     quote_content_frame_p = quote_content_frame.add_paragraph()
