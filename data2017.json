@@ -68,7 +68,7 @@
     },
     {
       "name": "Absolute Coding Club",
-      "meeting_day": "We",
+      "meeting_day": "W",
       "location": "700A",
       "adviser": "",
       "email": "southabsolutecoding@gmail.com",
@@ -76,7 +76,7 @@
     },
     {
       "name": "American Sign Language Club",
-      "meeting_day": "We",
+      "meeting_day": "W",
       "location": "700F",
       "adviser": "",
       "email": "",
@@ -84,7 +84,7 @@
     },
     {
       "name": "Chess Club",
-      "meeting_day": "We",
+      "meeting_day": "W",
       "location": "700E",
       "adviser": "",
       "email": "",
@@ -92,7 +92,7 @@
     },
     {
       "name": "Chinese Club",
-      "meeting_day": "We",
+      "meeting_day": "W",
       "location": "700C",
       "adviser": "",
       "email": "",
@@ -100,7 +100,7 @@
     },
     {
       "name": "Creations for a Cause Club",
-      "meeting_day": "We",
+      "meeting_day": "W",
       "location": "701A",
       "adviser": "",
       "email": "",
@@ -108,7 +108,7 @@
     },
     {
       "name": "Fellowship of Christian Athletes Club",
-      "meeting_day": "We",
+      "meeting_day": "W",
       "location": "402",
       "adviser": "Lunch",
       "email": "",
@@ -116,7 +116,7 @@
     },
     {
       "name": "Investment Club",
-      "meeting_day": "We",
+      "meeting_day": "W",
       "location": "700D",
       "adviser": "",
       "email": "wwphss.investment@gmail.com",
@@ -124,7 +124,7 @@
     },
     {
       "name": "March of Dimes Club",
-      "meeting_day": "We",
+      "meeting_day": "W",
       "location": "800C",
       "adviser": "",
       "email": "",
@@ -132,7 +132,7 @@
     },
     {
       "name": "Public Speaking Club",
-      "meeting_day": "We",
+      "meeting_day": "W",
       "location": "701B",
       "adviser": "",
       "email": "southspeechclub@gmail.com",
@@ -140,7 +140,7 @@
     },
     {
       "name": "TED-Ed Club",
-      "meeting_day": "We",
+      "meeting_day": "W",
       "location": "Pit",
       "adviser": "",
       "email": "",
@@ -148,7 +148,7 @@
     },
     {
       "name": "WW-P Computer Engineering Club",
-      "meeting_day": "We",
+      "meeting_day": "W",
       "location": "700B",
       "adviser": "",
       "email": "wwpcomputerengineeringclub@gmail.com",
@@ -243,12 +243,116 @@
       "description": "Indian Dancing Club"
     },
     {
-      "name": "South Waksman Club",
-      "meeting_day": "Tu",
-      "location": "201",
-      "adviser": "Bhattacharya, Meenakshi",
-      "email": "southwaksmanclub@gmail.com",
-      "description": "Genetic sequencing club"
+      "name": "Academic Decathlon",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "",
+      "email": "",
+      "description": ""
+    },
+    {
+      "name": "Class Council",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "",
+      "email": "",
+      "description": ""
+    },
+    {
+      "name": "Debate Club",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "Levinson, Brian",
+      "email": "",
+      "description": ""
+    },
+    {
+      "name": "ECHOES Magazine",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "",
+      "email": "",
+      "description": ""
+    },
+    {
+      "name": "Fall Drama",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "",
+      "email": "",
+      "description": "School Play"
+    },
+    {
+      "name": "Spring Musical",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "",
+      "email": "",
+      "description": "School Musical"
+    },
+    {
+      "name": "First Edition",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "",
+      "email": "",
+      "description": ""
+    },
+    {
+      "name": "Future Educators of America",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "",
+      "email": "",
+      "description": ""
+    },
+    {
+      "name": "Future Problem Solvers",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "",
+      "email": "south.fps@gmail.com",
+      "description": "Teaches kids to find ways to solve tomorrow’s problems today"
+    },
+    {
+      "name": "Gay-Straight Student Alliance",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "",
+      "email": "",
+      "description": "SPECTRUM"
+    },
+    {
+      "name": "Jazz Band",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "",
+      "email": "",
+      "description": "Jazz band"
+    },
+    {
+      "name": "Color Guard",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "",
+      "email": "",
+      "description": ""
+    },
+    {
+      "name": "Junior Statesmen of America",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "",
+      "email": "",
+      "description": ""
+    },
+    {
+      "name": "Marching Band",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "",
+      "email": "",
+      "description": ""
     },
     {
       "name": "South Math Club",
@@ -257,6 +361,126 @@
       "adviser": "Swartz, Alexa",
       "email": "southmathclub@gmail.com",
       "description": "Helps kids prepare for Math competitions"
+    },
+    {
+      "name": "Model United Nations",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "Borsuk, Brad",
+      "email": "piratemun@gmail.com",
+      "description": ""
+    },
+    {
+      "name": "National History Day",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "Garzio, Michael",
+      "email": "nhd.south@gmail.com",
+      "description": "National History Day is a challenging, nationwide competition in which students create a research project for presentation at regional, state, and national levels."
+    },
+    {
+      "name": "National Honor Society",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "",
+      "email": "",
+      "description": ""
+    },
+    {
+      "name": "Peer Counseling",
+      "meeting_day": "",
+      "location": "Study Hall",
+      "adviser": "",
+      "email": "",
+      "description": "Helps Kids be more social"
+    },
+    {
+      "name": "Pirate's Eye Newspaper",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "",
+      "email": "",
+      "description": "School Newspaper"
+    },
+    {
+      "name": "Pirate Players",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "",
+      "email": "",
+      "description": ""
+    },
+    {
+      "name": "Project Pride",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "Fitzpatrick, Beth",
+      "email": "",
+      "description": "Helps middle-schooler Kids be more social"
+    },
+    {
+      "name": "Radio Station",
+      "meeting_day": "Tu",
+      "location": "500A",
+      "adviser": "Allison, Glenn",
+      "email": "wwp1079fm@gmail.com",
+      "description": ""
+    },
+    {
+      "name": "Red Cross Club",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "",
+      "email": "",
+      "description": ""
+    },
+    {
+      "name": "Relay for Life",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "",
+      "email": "",
+      "description": "A relay against cancer through the American Cancer Society"
+    },
+    {
+      "name": "Robotics Club",
+      "meeting_day": "",
+      "location": "HSN:UDH",
+      "adviser": "Kamen, Libby",
+      "email": "libby.kamen@wwprsd.org",
+      "description": "Shared FRC Robotics team between High School North and High School South"
+    },
+    {
+      "name": "Science Club",
+      "meeting_day": "F",
+      "location": "206",
+      "adviser": "Sharma, Sunila",
+      "email": "southscienceclub@gmail.com",
+      "description": "Club that competes in Science Bowls"
+    },
+    {
+      "name": "Science Olympiad",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "",
+      "email": "",
+      "description": ""
+    },
+    {
+      "name": "Waksman Scientific Club",
+      "meeting_day": "Tu",
+      "location": "201",
+      "adviser": "Bhattacharya, Meenakshi",
+      "email": "southwaksmanclub@gmail.com",
+      "description": "Genetic sequencing club"
+    },
+    {
+      "name": "Yearbook Club",
+      "meeting_day": "",
+      "location": "Library",
+      "adviser": "",
+      "email": "",
+      "description": "Club that makes the school yearbook"
     }
   ],
   "teachers": [
