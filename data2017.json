@@ -27,6 +27,222 @@
   ],
   "clubs": [
     {
+      "name": "Digital Photography Club",
+      "meeting_day": "Tu",
+      "location": "701A",
+      "adviser": "",
+      "email": "",
+      "description": "Digital Photography Club"
+    },
+    {
+      "name": "Hispanic Club",
+      "meeting_day": "Tu",
+      "location": "700C",
+      "adviser": "",
+      "email": "",
+      "description": "club to help unite hispanics"
+    },
+    {
+      "name": "Horticulture Club",
+      "meeting_day": "Tu",
+      "location": "700D",
+      "adviser": "",
+      "email": "",
+      "description": "plants club"
+    },
+    {
+      "name": "Women's Empowerment Initiative Club",
+      "meeting_day": "Tu",
+      "location": "700A",
+      "adviser": "",
+      "email": "",
+      "description": "hsswei@gmail.com"
+    },
+    {
+      "name": "Manga Production Club",
+      "meeting_day": "Tu",
+      "location": "700F",
+      "adviser": "",
+      "email": "",
+      "description": "Read and make manga club"
+    },
+    {
+      "name": "Absolute Coding Club",
+      "meeting_day": "We",
+      "location": "700A",
+      "adviser": "",
+      "email": "southabsolutecoding@gmail.com",
+      "description": "Solves USACO problems"
+    },
+    {
+      "name": "American Sign Language Club",
+      "meeting_day": "We",
+      "location": "700F",
+      "adviser": "",
+      "email": "",
+      "description": "teaches sign language"
+    },
+    {
+      "name": "Chess Club",
+      "meeting_day": "We",
+      "location": "700E",
+      "adviser": "",
+      "email": "",
+      "description": "teach chess strategies through playing chess"
+    },
+    {
+      "name": "Chinese Club",
+      "meeting_day": "We",
+      "location": "700C",
+      "adviser": "",
+      "email": "",
+      "description": "teach Chinese"
+    },
+    {
+      "name": "Creations for a Cause Club",
+      "meeting_day": "We",
+      "location": "701A",
+      "adviser": "",
+      "email": "",
+      "description": ""
+    },
+    {
+      "name": "Fellowship of Christian Athletes Club",
+      "meeting_day": "We",
+      "location": "402",
+      "adviser": "Lunch",
+      "email": "",
+      "description": ""
+    },
+    {
+      "name": "Investment Club",
+      "meeting_day": "We",
+      "location": "700D",
+      "adviser": "",
+      "email": "wwphss.investment@gmail.com",
+      "description": "teach investment strategies and go to competitions"
+    },
+    {
+      "name": "March of Dimes Club",
+      "meeting_day": "We",
+      "location": "800C",
+      "adviser": "",
+      "email": "",
+      "description": "Walk to prevent Birth Defects"
+    },
+    {
+      "name": "Public Speaking Club",
+      "meeting_day": "We",
+      "location": "701B",
+      "adviser": "",
+      "email": "southspeechclub@gmail.com",
+      "description": "Teaches public speaking for both ESL students and kids who want help speaking"
+    },
+    {
+      "name": "TED-Ed Club",
+      "meeting_day": "We",
+      "location": "Pit",
+      "adviser": "",
+      "email": "",
+      "description": ""
+    },
+    {
+      "name": "WW-P Computer Engineering Club",
+      "meeting_day": "We",
+      "location": "700B",
+      "adviser": "",
+      "email": "wwpcomputerengineeringclub@gmail.com",
+      "description": ""
+    },
+    {
+      "name": "Ambassadors for Autism Club",
+      "meeting_day": "Th",
+      "location": "700A",
+      "adviser": "",
+      "email": "ambassadorsforautism@gmail.com",
+      "description": ""
+    },
+    {
+      "name": "Black Student Club",
+      "meeting_day": "Th",
+      "location": "700B",
+      "adviser": "",
+      "email": "",
+      "description": "Helps unite Black students with others"
+    },
+    {
+      "name": "Environmental Club",
+      "meeting_day": "Th",
+      "location": "700C",
+      "adviser": "",
+      "email": "hssenvironmentalclub@gmail.com",
+      "description": "Work to make the Environment better"
+    },
+    {
+      "name": "The Meditation Club",
+      "meeting_day": "Th",
+      "location": "701A",
+      "adviser": "",
+      "email": "hssmeditationclub@gmail.com",
+      "description": "Helps students meditate and relax"
+    },
+    {
+      "name": "Pirates Against Hunger Club",
+      "meeting_day": "Th",
+      "location": "701B",
+      "adviser": "",
+      "email": "",
+      "description": ""
+    },
+    {
+      "name": "Pirates CS Innovators Club",
+      "meeting_day": "Th",
+      "location": "700E",
+      "adviser": "",
+      "email": "pirateinnovators@gmail.com",
+      "description": "Helps kids learn coding to make apps and attend hackathons"
+    },
+    {
+      "name": "Pirates for Paws Club",
+      "meeting_day": "Th",
+      "location": "700F",
+      "adviser": "",
+      "email": "",
+      "description": ""
+    },
+    {
+      "name": "HSS Tutoring Desk",
+      "meeting_day": "",
+      "location": "Library",
+      "adviser": "",
+      "email": "southtutoringdesk@gmail.com ",
+      "description": "A club where kids can learn from other kids to help solidate their understanding"
+    },
+    {
+      "name": "One Acts Club",
+      "meeting_day": "",
+      "location": "Pit/Playhouse",
+      "adviser": "",
+      "email": "",
+      "description": ""
+    },
+    {
+      "name": "HSS Tech Desk",
+      "meeting_day": "",
+      "location": "Library",
+      "adviser": "",
+      "email": "wwptechdesk@gmail.com",
+      "description": "Helps kids with technology-based problems"
+    },
+    {
+      "name": "SAASA",
+      "meeting_day": "",
+      "location": "Pit",
+      "adviser": "",
+      "email": "Southsaasa2017@gmail.com",
+      "description": "Indian Dancing Club"
+    },
+    {
       "name": "South Waksman Club",
       "meeting_day": "Tu",
       "location": "201",
@@ -40,7 +256,7 @@
       "location": "600E",
       "adviser": "Swartz, Alexa",
       "email": "southmathclub@gmail.com",
-      "description": "Math"
+      "description": "Helps kids prepare for Math competitions"
     }
   ],
   "teachers": [
