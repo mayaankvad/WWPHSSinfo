@@ -1,6 +1,36 @@
 {
   "sports": [
     {
+      "name": "Soccer",
+      "gender": "B",
+      "season": "",
+      "coach": "Fisher, Bryan"
+    },
+    {
+      "name": "Field Hockey",
+      "gender": "",
+      "season": "",
+      "coach": "Fisher, Bryan"
+    },
+    {
+      "name": "Basketball JV",
+      "gender": "G",
+      "season": "",
+      "coach": "Fisher, Bryan"
+    },
+    {
+      "name": "Golf",
+      "gender": "G",
+      "season": "S",
+      "coach": "Walsh, Michelle"
+    },
+    {
+      "name": "Soccer",
+      "gender": "G",
+      "season": "Sp",
+      "coach": "Trefz, Christopher"
+    },
+    {
       "name": "Track",
       "gender": "B",
       "season": "F",
@@ -26,6 +56,246 @@
     }
   ],
   "clubs": [
+    {
+      "name": "Academic Decathlon",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "",
+      "email": "",
+      "description": "Academic Decathlon is a series of interscholastic competitions for high school teams nationwide. The Decathlon tests knowledge and academic skills. The regional and state competitions are comprised of 10 categories: Speech, Interview, Essay, Math, Science, Fine Arts, Economics, Social Studies, Literature, and Super Quiz."
+    },
+    {
+      "name": "Class Council",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "",
+      "email": "",
+      "description": "2018 Class Council is an organization which trains students in the duties and responsibilities of good citizenship, using the school environment as the primary training ground. This is an elected position, It falls under the realm of Student Council, interacting closely with the student governing body as well as conduct their own order and raise funds for future events like prom and senior trip for the class of 2018. Certain class officers also participate in the graduation ceremony to address their class, help present diplomas by calling student names, and end the ceremony."
+    },
+    {
+      "name": "Debate Club",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "Levinson, Brian",
+      "email": "southdebate@gmail.com",
+      "description": "Debate League consists of three main seasons, during which members have the chance to participate in interscholastic debate competitions. Competitions range from policy debates to values debates to constitutional law. Preparation for the competition dominates most of the meetings and entails improving oratorical skills and analytical stills, discussing research and holding practice debates. The goal of the club is to help every member improve, regardless of the level of debating experience."
+    },
+    {
+      "name": "ECHOES Magazine",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "",
+      "email": "",
+      "description": ""
+    },
+    {
+      "name": "Fall Drama",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "",
+      "email": "",
+      "description": "Presented in mid-November, the Fall Drama is the South Campus' first school-wide theatrical production of each year. The quick production schedule leads to close working relationships and a strong sense of individual accomplishment. Auditions take place over several days in early September, after which the cast (or sometimes multiple casts!) rehearses daily after school until 5:00 pm. Some rehearsals are scheduled for weekends or evenings, to accommodate the needs of both the cast and the show. In addition to actors, the Fall Drama needs behind-the scenes helpers in stage management, costuming, makeup, and business."
+    },
+    {
+      "name": "Spring Musical",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "",
+      "email": "",
+      "description": "The spring musical is open to all students who are interested in the on and off stage aspects of musical theatre. To perform on stage students must audition. Auditions consist of three components: singing, dancing and acting. A workshop is held each year before auditions so students can familiarize themselves with that year’s musical. Rehearsals take place after school, during the evenings, as well as on Saturdays. If being on stage is not for you, there are many opportunities to get involved backstage in opportunities such as building and painting sets, lighting and sound."
+    },
+    {
+      "name": "First Edition",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "",
+      "email": "",
+      "description": ""
+    },
+    {
+      "name": "Future Educators of America",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "",
+      "email": "",
+      "description": ""
+    },
+    {
+      "name": "Future Problem Solvers",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "",
+      "email": "south.fps@gmail.com",
+      "description": "Teaches kids to find ways to solve tomorrow’s problems today"
+    },
+    {
+      "name": "Gay-Straight Student Alliance",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "",
+      "email": "",
+      "description": "This organization heightens student and teacher awareness, and teaches tolerance and acceptance of differences. This is done through guest speakers and films, as well as meeting with health educators, teachers, and other students. The club is open to all students."
+    },
+    {
+      "name": "Jazz Band",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "",
+      "email": "",
+      "description": "The Jazz Band is an ensemble with standard 'Big Band' instrumentation that plays music from the dawn of the swing era to modern times (swing, funk, Latin, etc.). A strong emphasis is placed on stylistic integrity and improvisational skills are further developed. The group plays in the community and at local jazz festivals."
+    },
+    {
+      "name": "Color Guard",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "",
+      "email": "",
+      "description": "Color guard is a section within the marching band that adds to the visual element of the marching band performance through coordinated dance and flag work. Color Guard always performs with the marching band and attends competitions as well as football games. Students do not need to be in the music program. Dance experience is helpful but not required."
+    },
+    {
+      "name": "Junior Statesmen of America",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "",
+      "email": "",
+      "description": ""
+    },
+    {
+      "name": "Marching Band",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "",
+      "email": "",
+      "description": "Marching Band is a club for students in the music program who wish to use the skills they have developed during the school day in a competitive, drum corps style marching band. The band rehearses music and marching after school several times a week and performs at all football games. They also compete against other marching bands in the region and participate in local parades."
+    },
+    {
+      "name": "South Math Club",
+      "meeting_day": "Tu",
+      "location": "600E",
+      "adviser": "Swartz, Alexa",
+      "email": "southmathclub@gmail.com",
+      "description": "Helps kids prepare for Math competitions"
+    },
+    {
+      "name": "Model United Nations",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "Borsuk, Brad",
+      "email": "piratemun@gmail.com",
+      "description": "MUN is a forum for honing speaking skills, developing skills of compromise and negotiation, and understanding a myriad of global issues and dilemmas that exist today. A comprehensive training program is provided in September for new members. Three conferences are attended during the year at the nation's leading universities."
+    },
+    {
+      "name": "National History Day",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "Garzio, Michael",
+      "email": "nhd.south@gmail.com",
+      "description": "National History Day is a challenging, nationwide competition in which students create a research project for presentation at regional, state, and national levels."
+    },
+    {
+      "name": "National Honor Society",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "",
+      "email": "",
+      "description": "NHS is a merit-based organization comprised of some of the school's leaders in academic and extracurriculars. Students in the eleventh and twelfth grades with a unweighted GPA of 3.5 or higher are invited to apply for selection into NHS. A faculty council reviews the applicants' leadership, community service, and overall character to make the final selections. Once admitted, members of NHS serve the community by tutoring fellow students, raising money for charity, and performing other community service projects."
+    },
+    {
+      "name": "Peer Counseling",
+      "meeting_day": "",
+      "location": "Study Hall",
+      "adviser": "",
+      "email": "",
+      "description": "Through the Peer Leadership program, students perform many vital services to the school and community; these include peer mediation, 8th grade transition groups, freshmen peer groups, building tours, event ushering, community service projects, and other tasks as requested by administration or the guidance department. Peer Leaders are also involved with a number of other activities acting as role models for the middle school students. The members are frequently asked to become involved in other aspects of the high school when their skills and insights can be integral to helping their peers. Peer Leaders are selected through an application process during sophomore year."
+    },
+    {
+      "name": "Pirate's Eye Newspaper",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "Kumar, Sima",
+      "email": "",
+      "description": "School Newspaper"
+    },
+    {
+      "name": "Pirate Players",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "",
+      "email": "",
+      "description": ""
+    },
+    {
+      "name": "Project Pride",
+      "meeting_day": "W",
+      "location": "",
+      "adviser": "Fitzpatrick, Beth",
+      "email": "wwphsprojectpride@gmail.com",
+      "description": "Helps middle-schooler Kids be more social"
+    },
+    {
+      "name": "Radio Station",
+      "meeting_day": "Tu",
+      "location": "500A",
+      "adviser": "Allison, Glenn",
+      "email": "wwp1079fm@gmail.com",
+      "description": "107.9—FM is a non-commercial radio station run by the students of both South and North Campuses. The station broadcasts live to West Windsor and Plainsboro on most school days from 7:00 am until 5:00pm. Additionally, there are live night and weekend broadcasts for sports and special events. Broadcasts can be heard on the radio and on the internet, and listeners can also hear a show “on demand” by downloading podcasts at iTunes or at the radio station website: wwph1079fm.com. Any student may participate in the club on or off the air. Positions include news, sports, publicity, production, promotions, etc. Additionally, students who take the Broadcast Writing course earn a license that allows them to host their own shows. Students may choose to participate in one or more seasons (fall, winter, spring)."
+    },
+    {
+      "name": "Red Cross Club",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "",
+      "email": "wwpsouthredcross@gmail.com",
+      "description": "The Red Cross Club provides students with a variety of meaningful service opportunities throughout the year. Club members have access to many Red Cross programs and have received extensive training in areas such as disaster response and First Aid/CPR. Members do everything from teaching children courses in water safety and disaster preparedness, visiting nursing homes on a monthly basis, to organizing food and blood drives. Each member must participate in a minimum of 5 hours of service with the club annually to be recognized as a contributing member."
+    },
+    {
+      "name": "Relay for Life",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "",
+      "email": "",
+      "description": "Relay for Life is a charitable organization of the American Cancer Society. Members at HSS will work in small teams to independently raise money for the American Cancer Society with various events and fundraisers."
+    },
+    {
+      "name": "Robotics Club",
+      "meeting_day": "",
+      "location": "HSN:UDH",
+      "adviser": "Kamen, Libby",
+      "email": "libby.kamen@wwprsd.org",
+      "description": "FIRST Robotics Competition Team 1923, The MidKnight Inventors designs, builds & programs a 150-lb competition robot each year. We also support two FIRST Tech Challenge teams, The MidKnight Magic & The MidKnight Nova, for 7th and 8th graders, in addition to FIRST LEGO League mentoring programs for elementary schoolers. Our team helps promote STEM to the local area by competing throughout the year, hosting demos, summer camps, and community events. In addition to building and programming, our team maintains a media subteam, business committee, and community outreach committee - no matter what you're interested in, there is a space for you to pursue it on our team!FIRST Robotics Competition Team 1923, The MidKnight Inventors designs, builds & programs a 150-lb competition robot each year. We also support two FIRST Tech Challenge teams, The MidKnight Magic & The MidKnight Nova, for 7th and 8th graders, in addition to FIRST LEGO League mentoring programs for elementary schoolers. Our team helps promote STEM to the local area by competing throughout the year, hosting demos, summer camps, and community events. In addition to building and programming, our team maintains a media subteam, business committee, and community outreach committee - no matter what you're interested in, there is a space for you to pursue it on our team!"
+    },
+    {
+      "name": "Science Club",
+      "meeting_day": "F",
+      "location": "206",
+      "adviser": "Sharma, Sunila",
+      "email": "southscienceclub@gmail.com",
+      "description": "Club that competes in Science Bowls"
+    },
+    {
+      "name": "Science Olympiad",
+      "meeting_day": "",
+      "location": "",
+      "adviser": "",
+      "email": "",
+      "description": "Science Olympiad is a National Competition that includes regional, state, and national competitions in 25 different events in engineering, chemistry, biology, earth science, and problem solving. Many events require the construction and testing of a vehicle, bridge, robot, or other device. Team members who are selected at the beginning of the year work as a team to compete in tournaments at the state and national level."
+    },
+    {
+      "name": "Waksman Scientific Club",
+      "meeting_day": "Tu",
+      "location": "201",
+      "adviser": "Bhattacharya, Meenakshi",
+      "email": "southwaksmanclub@gmail.com",
+      "description": "Genetic sequencing club"
+    },
+    {
+      "name": "Yearbook Club",
+      "meeting_day": "",
+      "location": "Library",
+      "adviser": "",
+      "email": "",
+      "description": "The yearbook is created for students to look back on their year of high school. It is created and designed by the students for the students with guidance from faculty advisors. An integral part of the yearbook experience is dealing with weekly plans and deadlines to complete an entire high school yearbook by June. Members format pictures, enter information into computers and promote the schools' official yearbook."
+    },
     {
       "name": "Digital Photography Club",
       "meeting_day": "Tu",
@@ -55,8 +325,8 @@
       "meeting_day": "Tu",
       "location": "700A",
       "adviser": "",
-      "email": "",
-      "description": "hsswei@gmail.com"
+      "email": "hsswei@gmail.com",
+      "description": ""
     },
     {
       "name": "Manga Production Club",
@@ -88,7 +358,7 @@
       "location": "700E",
       "adviser": "",
       "email": "",
-      "description": "teach chess strategies through playing chess"
+      "description": "The chess club is where we come together to study, learn, and play the game of chess. The goals are to build skills in playing the game of chess, to learn different moves and strategies, and to have club members develop a competitive team."
     },
     {
       "name": "Chinese Club",
@@ -110,9 +380,9 @@
       "name": "Fellowship of Christian Athletes Club",
       "meeting_day": "W",
       "location": "402",
-      "adviser": "Lunch",
+      "adviser": "",
       "email": "",
-      "description": ""
+      "description": "The Fellowship of Christian Athletes is a forum for members to meet and develop community."
     },
     {
       "name": "Investment Club",
@@ -163,12 +433,12 @@
       "description": ""
     },
     {
-      "name": "Black Student Club",
+      "name": "Black Student Union Club",
       "meeting_day": "Th",
       "location": "700B",
       "adviser": "",
       "email": "",
-      "description": "Helps unite Black students with others"
+      "description": "The Black Student Union is an organization established to promote a higher level of black consciousness, advancement, and mutual understanding among all cultures."
     },
     {
       "name": "Environmental Club",
@@ -176,7 +446,7 @@
       "location": "700C",
       "adviser": "",
       "email": "hssenvironmentalclub@gmail.com",
-      "description": "Work to make the Environment better"
+      "description": "The Environmental Club educates the community on the importance of cleaning up the environment through various public awareness initiatives at South such as Recycling week where each grade competes to recycle the most.  Members can also compete in Envirothon, which enhances students environmental knowledge by teaching them more about the environment and our natural resources."
     },
     {
       "name": "The Meditation Club",
@@ -241,246 +511,6 @@
       "adviser": "",
       "email": "Southsaasa2017@gmail.com",
       "description": "Indian Dancing Club"
-    },
-    {
-      "name": "Academic Decathlon",
-      "meeting_day": "",
-      "location": "",
-      "adviser": "",
-      "email": "",
-      "description": ""
-    },
-    {
-      "name": "Class Council",
-      "meeting_day": "",
-      "location": "",
-      "adviser": "",
-      "email": "",
-      "description": ""
-    },
-    {
-      "name": "Debate Club",
-      "meeting_day": "",
-      "location": "",
-      "adviser": "Levinson, Brian",
-      "email": "",
-      "description": ""
-    },
-    {
-      "name": "ECHOES Magazine",
-      "meeting_day": "",
-      "location": "",
-      "adviser": "",
-      "email": "",
-      "description": ""
-    },
-    {
-      "name": "Fall Drama",
-      "meeting_day": "",
-      "location": "",
-      "adviser": "",
-      "email": "",
-      "description": "School Play"
-    },
-    {
-      "name": "Spring Musical",
-      "meeting_day": "",
-      "location": "",
-      "adviser": "",
-      "email": "",
-      "description": "School Musical"
-    },
-    {
-      "name": "First Edition",
-      "meeting_day": "",
-      "location": "",
-      "adviser": "",
-      "email": "",
-      "description": ""
-    },
-    {
-      "name": "Future Educators of America",
-      "meeting_day": "",
-      "location": "",
-      "adviser": "",
-      "email": "",
-      "description": ""
-    },
-    {
-      "name": "Future Problem Solvers",
-      "meeting_day": "",
-      "location": "",
-      "adviser": "",
-      "email": "south.fps@gmail.com",
-      "description": "Teaches kids to find ways to solve tomorrow’s problems today"
-    },
-    {
-      "name": "Gay-Straight Student Alliance",
-      "meeting_day": "",
-      "location": "",
-      "adviser": "",
-      "email": "",
-      "description": "SPECTRUM"
-    },
-    {
-      "name": "Jazz Band",
-      "meeting_day": "",
-      "location": "",
-      "adviser": "",
-      "email": "",
-      "description": "Jazz band"
-    },
-    {
-      "name": "Color Guard",
-      "meeting_day": "",
-      "location": "",
-      "adviser": "",
-      "email": "",
-      "description": ""
-    },
-    {
-      "name": "Junior Statesmen of America",
-      "meeting_day": "",
-      "location": "",
-      "adviser": "",
-      "email": "",
-      "description": ""
-    },
-    {
-      "name": "Marching Band",
-      "meeting_day": "",
-      "location": "",
-      "adviser": "",
-      "email": "",
-      "description": ""
-    },
-    {
-      "name": "South Math Club",
-      "meeting_day": "Tu",
-      "location": "600E",
-      "adviser": "Swartz, Alexa",
-      "email": "southmathclub@gmail.com",
-      "description": "Helps kids prepare for Math competitions"
-    },
-    {
-      "name": "Model United Nations",
-      "meeting_day": "",
-      "location": "",
-      "adviser": "Borsuk, Brad",
-      "email": "piratemun@gmail.com",
-      "description": ""
-    },
-    {
-      "name": "National History Day",
-      "meeting_day": "",
-      "location": "",
-      "adviser": "Garzio, Michael",
-      "email": "nhd.south@gmail.com",
-      "description": "National History Day is a challenging, nationwide competition in which students create a research project for presentation at regional, state, and national levels."
-    },
-    {
-      "name": "National Honor Society",
-      "meeting_day": "",
-      "location": "",
-      "adviser": "",
-      "email": "",
-      "description": ""
-    },
-    {
-      "name": "Peer Counseling",
-      "meeting_day": "",
-      "location": "Study Hall",
-      "adviser": "",
-      "email": "",
-      "description": "Helps Kids be more social"
-    },
-    {
-      "name": "Pirate's Eye Newspaper",
-      "meeting_day": "",
-      "location": "",
-      "adviser": "",
-      "email": "",
-      "description": "School Newspaper"
-    },
-    {
-      "name": "Pirate Players",
-      "meeting_day": "",
-      "location": "",
-      "adviser": "",
-      "email": "",
-      "description": ""
-    },
-    {
-      "name": "Project Pride",
-      "meeting_day": "",
-      "location": "",
-      "adviser": "Fitzpatrick, Beth",
-      "email": "",
-      "description": "Helps middle-schooler Kids be more social"
-    },
-    {
-      "name": "Radio Station",
-      "meeting_day": "Tu",
-      "location": "500A",
-      "adviser": "Allison, Glenn",
-      "email": "wwp1079fm@gmail.com",
-      "description": ""
-    },
-    {
-      "name": "Red Cross Club",
-      "meeting_day": "",
-      "location": "",
-      "adviser": "",
-      "email": "",
-      "description": ""
-    },
-    {
-      "name": "Relay for Life",
-      "meeting_day": "",
-      "location": "",
-      "adviser": "",
-      "email": "",
-      "description": "A relay against cancer through the American Cancer Society"
-    },
-    {
-      "name": "Robotics Club",
-      "meeting_day": "",
-      "location": "HSN:UDH",
-      "adviser": "Kamen, Libby",
-      "email": "libby.kamen@wwprsd.org",
-      "description": "Shared FRC Robotics team between High School North and High School South"
-    },
-    {
-      "name": "Science Club",
-      "meeting_day": "F",
-      "location": "206",
-      "adviser": "Sharma, Sunila",
-      "email": "southscienceclub@gmail.com",
-      "description": "Club that competes in Science Bowls"
-    },
-    {
-      "name": "Science Olympiad",
-      "meeting_day": "",
-      "location": "",
-      "adviser": "",
-      "email": "",
-      "description": ""
-    },
-    {
-      "name": "Waksman Scientific Club",
-      "meeting_day": "Tu",
-      "location": "201",
-      "adviser": "Bhattacharya, Meenakshi",
-      "email": "southwaksmanclub@gmail.com",
-      "description": "Genetic sequencing club"
-    },
-    {
-      "name": "Yearbook Club",
-      "meeting_day": "",
-      "location": "Library",
-      "adviser": "",
-      "email": "",
-      "description": "Club that makes the school yearbook"
     }
   ],
   "teachers": [
